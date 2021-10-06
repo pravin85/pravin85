@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development and DS Algo stuffs.
 - 🌱 I’m currently a Student
 - 💞️ I’m looking to collaborate on upcoming projets.
-- 📫 How to reach me via email 
 
 <!---
 pravin85/pravin85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
